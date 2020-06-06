@@ -1,2 +1,5 @@
 # Portuguese_Bank
-The dataset is taken from a Portuguese Bank which is conducted to direct marketing campaigns to promote term deposits to their customers.
+The dataset is taken from a Portuguese Bank which is conducted to direct marketing campaigns to
+promote term deposits to their customers. The common problem could be that the bank keeps re-calling the ‘‘wrong’’ customers (the ones don’t need term deposits) and it may cause high labour costs and be susceptible of harming customer relationship. So, our business goal is to improve marketing effectiveness by targeting the right customers. 
+
+In this project, the stakeholders are the bank marketing team, bank employees, and customers. The bank would benefit from this solution where lower marketing costs and less probability of wrong marketing targets can be achieved without the risk harming customer relationship. The customers of the bank will receive more precise solutions to their needs. However, this solution may have a problem where new customers have no previous marketing records and thus reduce the size of available features. Also, determining which category of customer (single, married or divorced) gets the loan easily.
